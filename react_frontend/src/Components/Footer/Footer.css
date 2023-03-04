@@ -1,0 +1,8 @@
+.buttons-div{
+    display: flex;
+    justify-content: center;
+}
+.copyright-link{
+    display: flex;
+    justify-content: center;
+}
